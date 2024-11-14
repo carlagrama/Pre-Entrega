@@ -7,3 +7,5 @@ Este proyecto es parte de mi aprendizaje como estudiante de "JavaScript Front-En
 Propósito
 
 La página web está diseñada para mostrar mi portafolio, mis habilidades y los servicios de diseño web que ofrezco. Este es el primer paso en mi camino hacia convertirme en una profesional en el desarrollo web, y mi objetivo a largo plazo es utilizar esta página para atraer clientes y proyectos.
+
+Autora: Carla Gramatico
